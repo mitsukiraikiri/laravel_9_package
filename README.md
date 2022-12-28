@@ -1,11 +1,11 @@
-Package Of This Repository
+Package Of This Repository <br><br>
 
--Larevel 9
--PHP 8
--Spatie Role Permission
--Laravel Breeze
--Bootstrap 5
--Bootstrap Icon
--SB Admin
--Sweetalert2
--Jquery
+-Larevel 9 <br>
+-PHP 8<br>
+-Spatie Role Permission<br>
+-Laravel Breeze<br>
+-Bootstrap 5<br>
+-Bootstrap Icon<br>
+-SB Admin<br>
+-Sweetalert2<br>
+-Jquery<br>
